@@ -13,4 +13,5 @@ I have created Leon Language Model at 01 November 2019. Indeed Leon is a transfo
 - [x] add teqdm
 - [ ] add time elapse
 - [ ] chnage train to a seprate function
+- [ ] fix bug of max_len and pd_size in init!!!!
 
